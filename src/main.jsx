@@ -6,7 +6,7 @@ import './App.css'
 
 import { createBrowserRouter, createRoutesFromElements, RouterProvider,Route} from 'react-router-dom'
 
-import Layout from './layout.jsx'
+import Layout from './Layout.jsx'
 import About from './components/About/About.jsx'
 import Home from './components/home/Home.jsx'
 import Contact from './components/contact/Contact.jsx'
